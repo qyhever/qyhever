@@ -33,8 +33,8 @@ A passionate **Frontend Developer** with rich experience in modern Web & Cross-P
 > Check out my repositories below 👇
 - [r3-admin-front](https://github.com/qyhever/r3-admin-front) - A sample of an RBAC permission model based on Vue.
 - [r3-admin-server](https://github.com/qyhever/r3-admin-server) - A simple Node.js HTTP server using Nest.js framework.
-- [gfftz-front](https://github.com/qyhever/gfftz-front) - A sample of an RBAC permission model based on React(doing).
-- [gfftz-server](https://github.com/qyhever/gfftz-server) - A simple Go HTTP server using Gin framework(doing).
+- [gfftz-front](https://gitee.com/qinyhquery/gfftz-front) - A sample of an RBAC permission model based on React.
+- [gfftz-server](https://gitee.com/qinyhquery/gfftz) - A simple Go HTTP server using Gin framework.
 
 ## 📫 Get in Touch
 - **GitHub**: [@qyhever](https://github.com/qyhever)
