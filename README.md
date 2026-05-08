@@ -36,6 +36,7 @@ A passionate **Frontend Developer** with rich experience in modern Web & Cross-P
 - [gfftz-frontend](https://github.com/qyhever/gfftz) - A sample of an RBAC permission model based on React.
 - [gfftz-backend](https://github.com/qyhever/gfftz) - A simple Go HTTP server using Gin framework.
 - [weas](https://github.com/qyhever/weas) - A sample of WeChat web page authorization and js-sdk integration.
+- [moonick](https://github.com/qyhever/moonick) - A carpooling travel platform.
 
 ## 📫 Get in Touch
 - **GitHub**: [@qyhever](https://github.com/qyhever)
