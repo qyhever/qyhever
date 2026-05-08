@@ -11,7 +11,7 @@ A passionate **Frontend Developer** with rich experience in modern Web & Cross-P
 | **Build Tools**        | Webpack, Vite, npm/yarn/pnpm                                                |
 | **Code Quality**       | ESLint, Prettier                               |
 
-### Backend (Exploring & Learning)
+### Backend
 - **Node.js**: Express/Nest.js, RESTful API, Middleware Design, MongoDB/MySQL integration
 - **Go (Golang)**: Gin, Viper, Go Modules, ORM Basics (GORM), HTTP Server Development
 - **Basics**: HTTP Protocol, Database (MySQL/PostgreSQL), Docker
