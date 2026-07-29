@@ -40,7 +40,7 @@ A passionate **Frontend Developer** with rich experience in modern Web & Cross-P
 
 ## 📫 Get in Touch
 - **GitHub**: [@qyhever](https://github.com/qyhever)
-- **Email**: [qyhever@126.com](mailto:qyhever@126.com)
+- **Email**: [conglou@qyhever.com](mailto:conglou@qyhever.com)
 
 ## ⚡ Fun Facts
 - 🔧 Obsessed with solving tricky frontend problems like cross-browser compatibility and complex state management.
